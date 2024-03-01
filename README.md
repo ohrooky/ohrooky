@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ARTERY Technology Company
 - 🌱 I’m currently learning Japanese
-- 📫 How to reach me: joe_chen@artery.com
+- 📫 How to reach me: joe_chen@arterytek.com
